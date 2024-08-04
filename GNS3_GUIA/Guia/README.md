@@ -3,7 +3,7 @@ Para crear un nuevo proyecto se clickea en File►New blank proyect. Se nombra e
 
 La siguiente imagen muestra la interfaz gráfica de usuario GNS, la cual se divide en varias partes.
 
-!(Imagenes/InterfazUsuarioGNS3.jpg)
+!(Guia/Imagenes/InterfazUsuarioGNS3.jpg)
 
 El espacio de trabajo es ese espacio grande del centro de la pantalla, donde se crean las tipologías, agregando los dispositivos y conexiones necesarios.
 
