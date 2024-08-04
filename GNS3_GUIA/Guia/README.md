@@ -1,4 +1,4 @@
-#GUIA GNS3
+# GUIA GNS3
 Para crear un nuevo proyecto se clickea en File►New blank proyect. Se nombra el proyecto como uno desee.
 
 La siguiente imagen muestra la interfaz gráfica de usuario GNS, la cual se divide en varias partes.
@@ -7,7 +7,7 @@ La siguiente imagen muestra la interfaz gráfica de usuario GNS, la cual se divi
 
 El espacio de trabajo es ese espacio grande del centro de la pantalla, donde se crean las tipologías, agregando los dispositivos y conexiones necesarios.
 
-!(Imagenes/EspacioDeTrabajo.jpg)
+![](Imagenes/EspacioDeTrabajo.jpg)
 
 La barra de herramientas está en el espacio de arriba y facilita las cosas.
 
@@ -27,7 +27,7 @@ Por ultimo esta la consola la cual está ubicada en la parte de abajo y su funci
 
 !(Imagenes/ConsolaGNS3.jpg)
 
-##CREAR TOPOLOGIAS
+## CREAR TOPOLOGIAS
 
 Para agregar dispositivos en el espacio de trabajo se arrastran y sueltan con el mouse, gracias a la barra de herramientas de dispositivos.
 
@@ -83,7 +83,7 @@ Por último, es importante guardar el proyecto manualmente, pues GNS3 no lo hace
 
 !(Imagenes/Topo20.jpg)
 
-##CREAR TOPOLOGIAS CISCO
+## CREAR TOPOLOGIAS CISCO
 
 Antes de explicar cabe aclarar que hay que agregar una imagen de un Cisco IOS Router, la referencia de esta imagen depende de cada uno.
 
