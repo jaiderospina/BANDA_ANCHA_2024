@@ -62,7 +62,12 @@ Zabbix es una potente herramienta de monitoreo de código abierto que permite a 
 * **Evaluar las opciones de visualización y generación de informes:** Gráficos, tablas, dashboards.
 * **Implementar escenarios de monitoreo:** Monitoreo de servidores, redes, bases de datos, aplicaciones web, etc.
 * **Comparar Zabbix con otras herramientas de monitoreo:** Analizar las ventajas y desventajas de Zabbix en comparación con otras soluciones como Nagios, Prometheus, etc.
-
+* Documentar la instalación y trazabilidad mediante templates genéricas de agente en Windows 11. (0.5 puntos)
+* Documentar la creación de un trigger para consumo de cpu y otro para tamaño de una carpeta. En ambos casos probar que el trigger se encuentra funcional mediante un protocolo de prueba y la generación del evento ( envío de alerta a correo). Se debe documentar el paso a paso de la configuración del envío de correo desde el servidor zabbix en modo relay. (3 puntos).
+* Creación de usuarios.
+* Integración con telegram.
+* Generación de reportes.
+  
 ### Entregables
 
 * **Informe escrito:** Un informe detallado que incluya una descripción general de Zabbix, los resultados de la investigación, las mejores prácticas de configuración y las recomendaciones para su uso.
