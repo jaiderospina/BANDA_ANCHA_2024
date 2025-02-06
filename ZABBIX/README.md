@@ -2,8 +2,6 @@
 
 Imagina que tu infraestructura de TI es un organismo vivo. Zabbix es como un médico que monitorea constantemente los signos vitales de este organismo, detectando cualquier anomalía o problema antes de que se convierta en una crisis.
 
-[Image of Zabbix monitoring dashboard]
-
 **Características principales de Zabbix:**
 
 * **Monitoreo flexible:** Puedes monitorear una amplia gama de dispositivos, desde servidores y redes hasta aplicaciones y servicios en la nube.
@@ -20,9 +18,7 @@ Imagina que tu infraestructura de TI es un organismo vivo. Zabbix es como un mé
 2. **Servidor Zabbix:** Recolecta los datos del agente y los almacena en una base de datos.
 3. **Interfaz web:** Te permite visualizar los datos, configurar alertas y gestionar tu infraestructura.
 
-![Descripción de la imagen] (https://www.zabbix.com/documentation/6.0/assets/en/manual/web_interface/frontend_sections/monitoring/dashboard.png)
 
-https://www.zabbix.com/documentation/6.0/assets/en/manual/web_interface/frontend_sections/monitoring/dashboard.png
 **¿Por qué usar Zabbix?**
 
 * **Costo:** Es de código abierto, lo que significa que es gratuito.
