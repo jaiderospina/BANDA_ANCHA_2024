@@ -20,7 +20,7 @@ Imagina que tu infraestructura de TI es un organismo vivo. Zabbix es como un mé
 2. **Servidor Zabbix:** Recolecta los datos del agente y los almacena en una base de datos.
 3. **Interfaz web:** Te permite visualizar los datos, configurar alertas y gestionar tu infraestructura.
 
-[Image of Zabbix architecture diagram]
+<image src=https://www.zabbix.com/documentation/6.0/assets/en/manual/web_interface/frontend_sections/monitoring/dashboard.png"  alt="Descripción de la imagen">
 
 **¿Por qué usar Zabbix?**
 
