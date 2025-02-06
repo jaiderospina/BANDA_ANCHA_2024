@@ -22,6 +22,7 @@ Imagina que tu infraestructura de TI es un organismo vivo. Zabbix es como un mé
 
 ![Descripción de la imagen] (https://www.zabbix.com/documentation/6.0/assets/en/manual/web_interface/frontend_sections/monitoring/dashboard.png)
 
+https://www.zabbix.com/documentation/6.0/assets/en/manual/web_interface/frontend_sections/monitoring/dashboard.png
 **¿Por qué usar Zabbix?**
 
 * **Costo:** Es de código abierto, lo que significa que es gratuito.
