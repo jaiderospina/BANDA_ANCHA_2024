@@ -17,3 +17,13 @@ Como guardar la configuración en GNS3.
  Con aprecio.
 
  Jaider Ospina Navas.
+
+# Referencias.
+
+- https://www.cisco.com/c/es_mx/support/docs/customer-collaboration/unified-customer-voice-portal/213472-secure-hash-algorithm-sha-256-for-cust.html
+- https://www.cisco.com/c/en/us/support/docs/routers/1700-series-modular-access-routers/71462-rtr-l2l-ipsec-split.html
+- https://www.w0lff4ng.org/config-ipsec-router-cisco/
+- https://www.firewall.cx/cisco/cisco-routers/cisco-router-site-to-site-ipsec-vpn.html
+- https://www.petenetlive.com/KB/Article/0000933
+- https://linuxtiwary.com/2016/03/26/vpn-configuration-lab-using-routers-in-cisco-packet-tracer/
+- 
